@@ -13,3 +13,4 @@ This repo offers various math methods used as a helper for your project.
 [My email](mailto: damduy07022000@gmail.com)
 
 © 2021 dam.duy
+
